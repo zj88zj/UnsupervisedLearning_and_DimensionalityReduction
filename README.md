@@ -10,8 +10,3 @@
 
 <h2>Summary:</h2>
 <p>K-means and Expectation Maximization are applied to two satasets, so as 4 dimention reduction approaches, NN is used for the classification/prediction task on clusters and reduced datasets.</p>
-
-<h2>Others:</h2>
-<p>> python 3.6</p>
-<p>There will be 6 folders needed for graphs output: ALL, Genetic, MIMIC, RandHill, SimAnneal, NN</p>
-<p>all comparisons need all algs models outputs.</p>
