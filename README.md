@@ -6,7 +6,7 @@
 <p>Clustering, K-means, Expectation Maximization (EM), Principal Component Analysis (PCA), Independent Component Analysis (ICA), Random Projection (RP), Random Forest, Neural Network.</p>
 
 <h2>Packages:</h2>
-<p>sklearn, pandas, numpy, matplotlib.</p>
+<p>sklearn, pandas, numpy, matplotlib, seaborn, time, timeit, math, scipy, collections, itertools.</p>
 
 <h2>Summary:</h2>
 <p>.</p>
