@@ -9,7 +9,7 @@
 <p>sklearn, pandas, numpy, matplotlib, seaborn, time, timeit, math, scipy, collections, itertools.</p>
 
 <h2>Summary:</h2>
-<p>.</p>
+<p>K-means and Expectation Maximization are applied to two satasets, so as 4 dimention reduction approaches, NN is used for the classification/prediction task on clusters and reduced datasets.</p>
 
 <h2>Others:</h2>
 <p>> python 3.6</p>
