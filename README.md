@@ -3,7 +3,7 @@
 <h2><a href="https://www.dropbox.com/s/pxanerp8cfvzpye/Unsupervised%20Learning.pdf?dl=0"> Report Link </a></h2>
 
 <h2>Keywords:</h2>
-<p>.</p>
+<p>Clustering, K-means, Expectation Maximization (EM), Principal Component Analysis (PCA), Independent Component Analysis (ICA), Random Projection (RP), Random Forest, Neural Network.</p>
 
 <h2>Packages:</h2>
 <p>sklearn, pandas, numpy, matplotlib.</p>
